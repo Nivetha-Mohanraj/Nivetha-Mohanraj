@@ -25,7 +25,7 @@ class NivethaMohanraj:
 
     name        = "Nivetha Mohanraj"
     location    = "Chennai, India 🇮🇳"
-    role        = "Assistant Systems Engineer — DevOps & Build Automation"
+    role        = "Assistant Systems Engineer — DevOps"
     company     = "Tata Consultancy Services"
 
     degree      = "B.E. Electronics & Instrumentation — RMK Engineering College (2024)"
